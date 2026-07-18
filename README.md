@@ -1,4 +1,6 @@
 # free-tracker
 
 ## Description
-This program executes 'free' program every 1 sec.
+A simple program which executes 'free' program every 1 sec.
+
+Used fork() and execvp() in a while loop.
